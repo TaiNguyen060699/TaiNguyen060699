@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nguyen Song Tai
 - 👀 I’m Frontend Developer
-- 
 - 📫 You can contact me by email: tainguyen06061999@gmail.com or LinkedIn: https://www.linkedin.com/in/tains99/
 
 <!---
